@@ -1,4 +1,4 @@
- <img src="assets/img/logo.png" height=70px" style="height:120px" />
+ <img src="assets/img/logo1.png" height=70px" style="height:120px" />
  <header id=" header" class="header fixed-top" data-scrollto-offset="0">
      <div class="container-fluid d-flex align-items-center justify-content-between">
 

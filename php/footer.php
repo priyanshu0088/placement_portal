@@ -6,12 +6,12 @@
         <div class="container d-flex flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center">
 
             <div class="d-flex flex-column align-items-center align-items-lg-start">
-                <div class="copyright">
+                <!-- <div class="copyright">
                     &copy; Copyright <strong><span>Code Stomp</span></strong>. All Rights Reserved
-                </div>
+                </div> -->
                 <div class="credits">
 
-                    <a href="https://www.jiit.ac.in//">JIIT-PlacementCell</a>
+                    <a href="https://www.aksuniversity.ac.in/">AKSU Placement Cell</a>
                 </div>
             </div>
 
