@@ -60,13 +60,15 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
-                <p>JIIT NOIDA</p>
+                <p>AKS University</p>
             </div>
 
         </div>
 
         <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17786.14796216234!2d77.36912155731619!3d28.62549268679601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce551491b3ce7%3A0x7335d9fcfd4d9db0!2sJAYPEE%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY!5e0!3m2!1sen!2sin!4v1673264938777!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.502071624885!2d80.791576!3d24.56694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39847db432b1c10f%3A0x9e73d10df69a7609!2sAKS%20University!5e0!3m2!1sen!2sin!4v1713434493629!5m2!1sen!2sin
+" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div><!-- End Google Maps -->
 
         <div class="container">
@@ -83,7 +85,9 @@
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h4>Location:</h4>
-                                <p>Jaypee Institute of Information Technology, A 10, A Block, Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309.</p>
+                                <p>AKS University, Panna Road, 
+
+Sherganj, Satna, Madhya Pradesh.</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -91,7 +95,7 @@
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
                                 <h4>Email:</h4>
-                                <p>codestomp@gmail.com</p>
+                                <p>AKS University@gmail.com</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -99,7 +103,7 @@
                             <i class="bi bi-phone flex-shrink-0"></i>
                             <div>
                                 <h4>Call:</h4>
-                                <p>9821023521</p>
+                                <p>1234567890</p>
                             </div>
                         </div><!-- End Info Item -->
 

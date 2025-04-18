@@ -16,10 +16,10 @@
             </div>
 
             <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
-                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-                <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.linkedin.com/posts/aksuniversity_aks-university-satna-activity-7055086181444648960-p98G/?utm_source=chatgpt.com" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                <!-- <a href="#" class="twitter"><i class="bi bi-twitter"></i></a> -->
+                <a href="https://www.facebook.com/aksuniversity?utm_source=chatgpt.com" class="facebook"><i class="bi bi-facebook"></i></a>
+                <a href="https://www.instagram.com/aksuniversity?utm_source=chatgpt.com" class="instagram"><i class="bi bi-instagram"></i></a>
                 <!--
                 <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>-->
                 
